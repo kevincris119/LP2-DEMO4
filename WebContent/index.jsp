@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>SISTEMA EDUCATIVO CIBERTEC</h1>
+<h2>BRITO ARANDA KEVIN</h2>
 
 </body>
 </html>
